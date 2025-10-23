@@ -28,9 +28,9 @@ const CONFIG = {
     // Calendar configurations
     calendars: [
         {
-            id: 'a0db2b1b0b5360248bc6d4935422f32504126ab898fe14166b30e3d6d55d5cf@group.calendar.google.com',
-            name: 'Waffles on Wheels RVA',
-            color: '#4285f4'
+        id: 'en.usa#holiday@group.v.calendar.google.com',
+        name: 'US Holidays Test',
+        color: '#4285f4'
         }
     ],
     
